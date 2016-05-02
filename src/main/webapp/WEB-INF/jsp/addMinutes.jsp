@@ -26,5 +26,7 @@
 		</table>
 	</form:form>
 	
+	<h1>Goal for today is: ${goal.minutes} minutes</h1>
+	
 </body>
 </html>
